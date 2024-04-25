@@ -1,0 +1,1 @@
+Já próximo do final do ano letivo 2023.2, nosso professor de Front-end nos passou como trabalho, recriar a home page de algum site.Eu e meu colega, optamos por replicar a home page do site Pokemon GO.
